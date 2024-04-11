@@ -1,7 +1,8 @@
 # Counter App
-https://github.com/DurgaMewada/counter/assets/149373536/1d1e1211-b971-4200-8c5c-e0a736915350
+
 
 <p >
+  https://github.com/DurgaMewada/counter/assets/149373536/1d1e1211-b971-4200-8c5c-e0a736915350
   <img src = "https://github.com/DurgaMewada/counter/assets/149373536/ba7bd8e3-04d8-4650-8954-1266ec7290bd" width=22% height=35% >
   <img src = "https://github.com/DurgaMewada/counter/assets/149373536/6a5b6542-af64-4abd-8edc-8b40f2e15492" width=22% height=35% >
 </p>
